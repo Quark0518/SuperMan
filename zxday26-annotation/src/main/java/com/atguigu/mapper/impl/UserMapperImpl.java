@@ -28,4 +28,7 @@ public class UserMapperImpl implements UserMapper {
     public User selectByPrimaryKey(Long id) throws SQLException {
         System.out.println("master第一次提交111111111111111111111");
     }
+    public int updateByPrimaryKeySelective(User user) throws SQLException {
+        System.out.println("master第二次提交222222");
+    }
 }
