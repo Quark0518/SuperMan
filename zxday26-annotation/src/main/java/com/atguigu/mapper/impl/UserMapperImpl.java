@@ -24,4 +24,8 @@ public class UserMapperImpl implements UserMapper {
         return queryRunner.query("select * from b_student", new BeanListHandler<User>(User.class));
 
     }
+
+    public User selectByPrimaryKey(Long id) throws SQLException {
+        System.out.println("master第一次提交111111111111111111111");
+    }
 }
