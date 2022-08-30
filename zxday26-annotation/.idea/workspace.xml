@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4ac541fb-0122-4e52-a010-23d831451f55" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="D:/Develop/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Develop\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2CqK0tQBlUeu2cgNPy5K10iSbjx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.service.impl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\张鑫\Desktop\IdeaProjects\zxday26-annotation\src\test" />
+      <recent name="C:\Users\张鑫\Desktop\IdeaProjects\zxday26-annotation\src\main\resources" />
+      <recent name="C:\Users\张鑫\Desktop\IdeaProjects\zxday26-annotation\src\main\java\com\atguigu" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MyTest.test1">
+    <configuration name="MyTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zxday26-annotation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MyTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSeviceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zxday26-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.service.impl.UserSeviceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserSeviceImplTest.selectAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zxday26-annotation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.service.impl.UserSeviceImplTest" />
+      <option name="METHOD_NAME" value="selectAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyTest.test1" />
+        <item itemvalue="JUnit.UserSeviceImplTest" />
+        <item itemvalue="JUnit.UserSeviceImplTest.selectAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ac541fb-0122-4e52-a010-23d831451f55" name="Default Changelist" comment="" />
+      <created>1659524454604</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659524454604</updated>
+      <workItem from="1659524457770" duration="3355000" />
+      <workItem from="1659528519668" duration="35000" />
+      <workItem from="1659528617185" duration="25000" />
+      <workItem from="1659532140936" duration="1152000" />
+      <workItem from="1659577985312" duration="2451000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="175" key="FileChooserDialogImpl" timestamp="1659526838665">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="175" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1659526838665" />
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom" timestamp="1659528341407">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1659528341407" />
+    <state width="1493" height="296" key="GridCell.Tab.0.center" timestamp="1659528341406">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1659528341406" />
+    <state width="1493" height="296" key="GridCell.Tab.0.left" timestamp="1659528341406">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1659528341406" />
+    <state width="1493" height="296" key="GridCell.Tab.0.right" timestamp="1659528341406">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="296" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1659528341406" />
+    <state x="178" y="121" key="new project wizard" timestamp="1659578023103">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="121" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1659578023103" />
+    <state x="669" y="163" width="183" height="491" key="search.text.field" timestamp="1659527642644">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="669" y="163" width="183" height="491" key="search.text.field/0.0.1536.834@0.0.1536.834" timestamp="1659527642644" />
+  </component>
+</project>
